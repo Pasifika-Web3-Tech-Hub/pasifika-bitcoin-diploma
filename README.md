@@ -15,8 +15,7 @@ This repository contains materials for the first cohort of the Bitcoin Diploma P
 ### Core Program Materials
 
 - **[PW3 Syllabus - Cohort 1](docs/PW3-Syllabus-Cohort-1.pdf)** - Complete curriculum outline, learning objectives, and program structure for the first cohort
-- **[PW3 Syllabus - Cohort 1 (Markdown)](docs/PW3-Syllabus-Cohort-1.md)** - Accessible markdown version of the complete syllabus
-- **[Bitcoin Diploma 2025](docs/Bitcoin%20Diploma-2025.pdf)** - Official diploma certification document and program completion requirements
+- **[Bitcoin Diploma 2025](docs/Bitcoin%20Diploma-2025.pdf)** - Student Workbook for the Bitcoin Diploma Program
 - **[Bitcoin Diploma Course](https://pasifika.xyz/bitcoin-diploma-course)** - Online course platform and enrollment
 
 ## About Pasifika Web3 Tech Hub
